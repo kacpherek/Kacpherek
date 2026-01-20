@@ -1,104 +1,116 @@
-# 👋 Cześć, jestem Kacper!
+# 🎧 lofi vibes only 🎧
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Kacper&fontSize=90&animation=fadeIn&fontAlignY=35&strokeWidth=0)
-
----
-
-### 🎓 O mnie
-
-```javascript
-const kacper = {
-    age: 19,
-    location: "🇵🇱 Poland",
-    education: "Technikum - rok szkolny 2025/2026 🎓",
-    status: "Ostatni rok nauki! 💪",
-    passion: ["Web Development", "Programming", "Learning"],
-    currentFocus: "Full-stack development z Astro & React ⚡",
-    funFact: "Nie śpię bez kawy ☕"
-};
+```
+    ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫
+    
+       K A C P E R
+       
+    19yo • poland • lofi coder
+    ═══════════════════════
+    
+    🎓 technikum 2025/2026
+    💻 coding till 3am
+    ☕ fueled by coffee
+    🌙 lofi beats on repeat
 ```
 
+<img src="https://read.githubusercontent.com/kamranahmedse/kamranahmedse/master/assets/lofi-hip-hop-girl.gif" width="400" />
+
 ---
 
-### 🛠️ Stack technologiczny
+### 🛹 stack
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Astro](https://img.shields.io/badge/-Astro-FF6B6B?style=for-the-badge&logo=astro&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+```
+┌─────────────────────────────────────────────┐
+│                                             │
+│   🟨 JavaScript    │   ⚛️  React           │
+│   🔷 TypeScript    │   🚀 Astro            │
+│   🎨 TailwindCSS   │   🟢 Node.js          │
+│   🟣 Git           │   🟡 Bun              │
+│                                             │
+└─────────────────────────────────────────────┘
+```
 
 </div>
 
 ---
 
-### 📊 Statystyki GitHub
+### 📊 stats
 
 <div align="center">
 
-![Kacpher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kacpherek&theme=transparent&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
+<img src="https://github-readme-stats.vercel.app/api?username=Kacpherek&theme=radical&hide_border=true&bg_color=2d1b4e&title_color=ff9e9e&text_color=e0c3fc&icon_color=ff9e9e&ring_color=ff9e9e&border_color=6b4c9a" width="400" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kacpherek&theme=transparent&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kacpherek&theme=transparent&hide_border=true&background=0d1117&stroke=c9d1d9&ring=58a6ff&fire=ffa657&currStreakLabel=ffa657)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kacpherek&theme=radical&hide_border=true&bg_color=2d1b4e&title_color=ff9e9e&text_color=e0c3fc" width="400" />
 
 </div>
 
 ---
 
-### 🏆 Github Trophy
+### 🔥 streak
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Kacpherek&theme=transparent&hide_border=true&row=1&column=7)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kacpherek&theme=radical&hide_border=true&background=2d1b4e&stroke=e0c3fc&ring=ff9e9e&fire=ff9e9e&currStreakNum=ff9e9e&sideNums=ff9e9e&sideLabels=ff9e9e&dates=e0c3fc" width="400" />
 
 </div>
 
 ---
 
-### 💻 Projekty
+### 🎮 projects
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kacpherek&repo=strona-zakladpogrzebowy&theme=transparent&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/Kacpherek/strona-zakladpogrzebowy)
+<a href="https://github.com/Kacpherek/strona-zakladpogrzebowy">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kacpherek&repo=strona-zakladpogrzebowy&theme=radical&hide_border=true&bg_color=2d1b4e&title_color=ff9e9e&text_color=e0c3fc" />
+</a>
 
 </div>
 
 ---
 
-### 📫 Jak mnie znaleźć
+### 🧠 random facts
+
+| 💭 | |
+|---|---|
+| 😴 | śpię 4h dziennie |
+| 🎧 | słucham lofi non stop |
+| 🍕 | pizza = życie |
+| 🌙 | coding w nocy to mood |
+| 🐛 | bugi to feature |
+
+---
+
+### 📬 kontakt
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:papiezkacper10@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kacpherek)
+[![gmail](https://img.shields.io/badge/papiezkacper10@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:papiezkacper10@gmail.com)
+[![github](https://img.shields.io/github/followers/Kacpherek?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kacpherek)
 
 </div>
 
 ---
 
-### 📈 Aktywność
-
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kacpherek&theme=transparent&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true)
+```
+    ╭──────────────────────────╮
+    │                          │
+    │   thanks for visiting    │
+    │      stay lofi 🌙        │
+    │                          │
+    ╰──────────────────────────╯
+    
+        now playing:
+    lofi hip hop radio - 
+    beats to relax/study to
+```
 
-</div>
-
----
-
-<div align="center">
-
-### "Code is like humor. When you have to explain it, it’s bad." – Cory House
-
----
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&strokeWidth=0)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,123,2,55,100&height=80&section=footer&strokeWidth=0" width="100%" />
 
 </div>
